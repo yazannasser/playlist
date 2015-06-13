@@ -20,14 +20,14 @@
 
 	<channel>
 		<title><![CDATA[Github XML]]></title>
-		<logo_30x30><![CDATA[https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcL_9qwj7-T7YmvOPZHoo_HjThCi1EZ-3QuroTVOkK9wOP30YmAA]]></logo_30x30>
+		<logo_30x30><![CDATA[https://media.licdn.com/mpr/mpr/shrink_100_100/p/5/005/021/259/31b2120.jpg]]></logo_30x30>
 		<description><![CDATA[My Playlist on GitHub, also under https://goo.gl/1mXzIg]]></description>
 		<stream_url><![CDATA[https://raw.githubusercontent.com/yazannasser/playlist/master/playlist1.xml]]></stream_url>
 	</channel>
 
 	<channel>
 		<title><![CDATA[Github m3u]]></title>
-		<logo_30x30><![CDATA[https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcL_9qwj7-T7YmvOPZHoo_HjThCi1EZ-3QuroTVOkK9wOP30YmAA]]></logo_30x30>
+		<logo_30x30><![CDATA[https://media.licdn.com/mpr/mpr/shrink_100_100/p/5/005/021/259/31b2120.jpg]]></logo_30x30>
 		<description><![CDATA[My Playlist on GitHub, also under https://goo.gl/rOoo2Y]]></description>
 		<stream_url><![CDATA[https://raw.githubusercontent.com/yazannasser/playlist/master/playlist1.m3u]]></stream_url>
 	</channel>
