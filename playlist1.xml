@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <items>
 
-	<playlist_name><![CDATA[Internet TV]]></playlist_name>
+	<playlist_name><![CDATA[GitHub PlayList]]></playlist_name>
 
 	<channel>
 		<title><![CDATA[Roya tv]]></title>
 		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
+		<description><![CDATA[Sewar's Favorate Channel]]></description>
 		<stream_url><![CDATA[http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81&lq=1]]></stream_url>
 	</channel>
 
@@ -20,7 +20,7 @@
 	<channel>
 		<title><![CDATA[Github XML]]></title>
 		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
+		<description><![CDATA[My Playlist on GitHub]]></description>
 		<stream_url><![CDATA[https://raw.githubusercontent.com/yazannasser/playlist/master/playlist1.xml]]></stream_url>
 	</channel>
 
