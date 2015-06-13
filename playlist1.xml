@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <items>
 
-	<playlist_name><![CDATA[Meo]]></playlist_name>
+	<playlist_name><![CDATA[Internet TV]]></playlist_name>
 
 	<channel>
 		<title><![CDATA[Roya tv]]></title>
@@ -15,6 +15,20 @@
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Github XML]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[https://raw.githubusercontent.com/yazannasser/playlist/master/playlist1.xml]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Github m3u]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[https://raw.githubusercontent.com/yazannasser/playlist/master/playlist1.m3u]]></stream_url>
 	</channel>
 
 	<channel>
