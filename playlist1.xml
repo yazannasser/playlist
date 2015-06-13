@@ -369,6 +369,13 @@
 	</channel>
 
 	<channel>
+		<title><![CDATA[Aljazeera]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high]]></stream_url>
+	</channel>
+	
+	<channel>
 		<title><![CDATA[Aljazeera Doc]]></title>
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
