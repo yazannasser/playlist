@@ -27,14 +27,14 @@
 
 	<channel>
 		<title><![CDATA[Github m3u]]></title>
-		<logo_30x30></logo_30x30>
+		https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcL_9qwj7-T7YmvOPZHoo_HjThCi1EZ-3QuroTVOkK9wOP30YmAA
 		<description><![CDATA[My Playlist on GitHub, also under https://goo.gl/rOoo2Y]]></description>
 		<stream_url><![CDATA[https://raw.githubusercontent.com/yazannasser/playlist/master/playlist1.m3u]]></stream_url>
 	</channel>
 
 	<channel>
 		<title><![CDATA[DropBox List Google]]></title>
-		<logo_30x30></logo_30x30>
+		https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcL_9qwj7-T7YmvOPZHoo_HjThCi1EZ-3QuroTVOkK9wOP30YmAA
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[https://goo.gl/IgXmpT]]></stream_url>
 	</channel>
