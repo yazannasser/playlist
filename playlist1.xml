@@ -7,7 +7,7 @@
 	<channel>
 		<title><![CDATA[Roya tv]]></title>
 		<logo_30x30><![CDATA[http://www.moworks.com.au/perch/resources/ro2ya-logo-1024x1024-w640.jpg]]></logo_30x30>
-		<description><![CDATA[Sewar's Favorate Channel ... love you]]><img src="http://www.moworks.com.au/perch/resources/ro2ya-logo-1024x1024-w640.jpg"></description>
+		<description><![CDATA[Sewar's Favorate Channel ... love you]]><img_src="http://www.moworks.com.au/perch/resources/ro2ya-logo-1024x1024-w640.jpg"></description>
 		<stream_url><![CDATA[http://212.35.75.130/3330/playlist.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81&lq=1]]></stream_url>
 	</channel>
 
