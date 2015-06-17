@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <items>
 
-	<playlist_name><![CDATA[GitHub PlayList 17-Jun-15]]></playlist_name>
+	<playlist_name><![CDATA[GitHub Internet TV]]></playlist_name>
 
 	<channel>
 		<title><![CDATA[Roya tv]]></title>
@@ -60,17 +60,45 @@
 	</channel>
 
 	<channel>
-		<title><![CDATA[MBC 1]]></title>
+		<title><![CDATA[MBC 1 (Alt1)]]></title>
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http://gui.cdniptv.com:8888/hls/mbc1.m3u8?frd8fi6blyq46ep]]></stream_url>
 	</channel>
 
 	<channel>
-		<title><![CDATA[MBC 2]]></title>
+		<title><![CDATA[MBC 1 (Alt2)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://gui.cdniptv.com:8888/hls/mbc1.m3u8?frd8fi6blyq46ep]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Mbc 1 (Alt3)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://62.210.87.116:8883/live/Hmtooo/fannen3/1.ts]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MBC 2 (Alt1)]]></title>
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http://gui.cdniptv.com:8888/hls/mbc2.m3u8?frd8fi6blyq46ep]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MBC 2 (Alt2)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://63.237.48.8/ios/MBC2/MBC2.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MBC 3]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream]]></stream_url>
 	</channel>
 
 	<channel>
@@ -84,7 +112,84 @@
 		<title><![CDATA[MBC 4]]></title>
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://63.237.48.8/ios/MBC_4/MBC_4.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MBC 4]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http://gui.cdniptv.com:8888/hls/mbc4.m3u8?frd8fi6blyq46ep]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Aljadid]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://162.212.176.107:1935/aljaded_sat/globaltv-aljaded_sat.stream/media_w1477130491_398.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[OTV]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[LBC]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://162.212.176.107:1935/time_comedy/globaltv-time_comedy.stream/chunklist_w489583599.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[LBC Europe]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://162.212.176.107:1935/lbc_europe/globaltv-lbc_europe.stream/chunklist_w928377838.m3u8]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[LBC Europe]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[MTV Liban]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[NBN]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://lived.nbn.com.lb/nbn?gmswf=1481326180/mpegts.stream]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[alalamia]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://ns8.indexforce.com/alalamia/alalamia]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[Future TV]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://185.56.30.127:8082/TV6000]]></stream_url>
+	</channel>
+
+	<channel>
+		<title><![CDATA[cna]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://str81.creacast.com:80/cna/live.sdp]]></stream_url>
 	</channel>
 
 	<channel>
@@ -522,27 +627,6 @@
 	</channel>
 
 	<channel>
-		<title><![CDATA[MBC 2]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://63.237.48.8/ios/MBC2/MBC2.m3u8]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[MBC 3]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[MBC 4]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://63.237.48.8/ios/MBC_4/MBC_4.m3u8]]></stream_url>
-	</channel>
-
-	<channel>
 		<title><![CDATA[MBC Drama]]></title>
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
@@ -673,69 +757,6 @@
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http://162.212.176.107:1935/al_manar/globaltv-al_manar.stream/chunklist_w156760986.m3u8]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[Aljadid]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://162.212.176.107:1935/aljaded_sat/globaltv-aljaded_sat.stream/media_w1477130491_398.m3u8]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[OTV]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[LBC]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://162.212.176.107:1935/time_comedy/globaltv-time_comedy.stream/chunklist_w489583599.m3u8]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[LBC Europe]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://162.212.176.107:1935/lbc_europe/globaltv-lbc_europe.stream/chunklist_w928377838.m3u8]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[MTV Liban]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[NBN]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[rtmp://lived.nbn.com.lb/nbn?gmswf=1481326180/mpegts.stream]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[alalamia]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[rtmp://ns8.indexforce.com/alalamia/alalamia]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[Future TV]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://185.56.30.127:8082/TV6000]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[cna]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[rtmp://str81.creacast.com:80/cna/live.sdp]]></stream_url>
 	</channel>
 
 	<channel>
@@ -1656,20 +1677,6 @@
 	</channel>
 
 	<channel>
-		<title><![CDATA[Mbc 1]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://62.210.87.116:8883/live/Hmtooo/fannen3/1.ts]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[Mbc 1 (Alternate)]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[http://gui.cdniptv.com:8888/hls/mbc1.m3u8?frd8fi6blyq46ep]]></stream_url>
-	</channel>
-
-	<channel>
 		<title><![CDATA[Mbc 2]]></title>
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
@@ -1730,13 +1737,6 @@
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream/HasBahCa.m3u8]]></stream_url>
-	</channel>
-
-	<channel>
-		<title><![CDATA[LBC Europe]]></title>
-		<logo_30x30></logo_30x30>
-		<description><![CDATA[]]></description>
-		<stream_url><![CDATA[rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream]]></stream_url>
 	</channel>
 
 	<channel>
