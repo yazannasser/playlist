@@ -17,14 +17,44 @@ https://www.dropbox.com/s/v50aesnb3wifbiy/Arabic%20TV.m3u?dl=0
 # http://www.iptvlinks.com/2014/12/iptv-arabic-channels.html
 #EXTINF:-1,*** http://www.iptvlinks.com ***
 http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,MBC 1
+#EXTINF:-1,MBC 1 (Alt1)
 http://gui.cdniptv.com:8888/hls/mbc1.m3u8?frd8fi6blyq46ep
-#EXTINF:-1,MBC 2
+#EXTINF:-1,MBC 1 (Alt2)
+http://gui.cdniptv.com:8888/hls/mbc1.m3u8?frd8fi6blyq46ep
+#EXTINF:-1,Mbc 1 (Alt3)
+http://62.210.87.116:8883/live/Hmtooo/fannen3/1.ts
+#EXTINF:-1,MBC 2 (Alt1)
 http://gui.cdniptv.com:8888/hls/mbc2.m3u8?frd8fi6blyq46ep
+#EXTINF:-1,MBC 2 (Alt2)
+http://63.237.48.8/ios/MBC2/MBC2.m3u8
+#EXTINF:-1,MBC 3
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
 #EXTINF:-1,MBC 3
 http://gui.cdniptv.com:8888/hls/mbc3.m3u8?frd8fi6blyq46ep
 #EXTINF:-1,MBC 4
+http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1,MBC 4
 http://gui.cdniptv.com:8888/hls/mbc4.m3u8?frd8fi6blyq46ep
+#EXTINF:-1,Aljadid
+http://162.212.176.107:1935/aljaded_sat/globaltv-aljaded_sat.stream/media_w1477130491_398.m3u8
+#EXTINF:-1,OTV
+http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
+#EXTINF:-1,LBC
+http://162.212.176.107:1935/time_comedy/globaltv-time_comedy.stream/chunklist_w489583599.m3u8
+#EXTINF:-1,LBC Europe
+http://162.212.176.107:1935/lbc_europe/globaltv-lbc_europe.stream/chunklist_w928377838.m3u8
+#EXTINF:-1,LBC Europe
+rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
+#EXTINF:-1,MTV Liban
+rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+#EXTINF:-1,NBN
+rtmp://lived.nbn.com.lb/nbn?gmswf=1481326180/mpegts.stream
+#EXTINF:-1,alalamia
+rtmp://ns8.indexforce.com/alalamia/alalamia
+#EXTINF:-1,Future TV
+http://185.56.30.127:8082/TV6000
+#EXTINF:-1,cna
+rtmp://str81.creacast.com:80/cna/live.sdp
 #EXTINF:-1,MBC Drama
 http://gui.cdniptv.com:8888/hls/mbc-drama.m3u8?frd8fi6blyq46ep
 #EXTINF:-1,MBC Action
@@ -149,12 +179,6 @@ http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/chunklist_w14746
 http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
 #EXTINF:-1,Dubai Sport 3
 http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-#EXTINF:-1,MBC 2
-http://63.237.48.8/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC 3
-rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
-#EXTINF:-1,MBC 4
-http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,MBC Drama
 rtmp://151.80.141.145/hls?v=1481358776/mbc_drama
 #EXTINF:-1,MBC_BOLLYWOOD
@@ -193,24 +217,6 @@ http://162.212.176.107:1935/fatafeat/globaltv-fatafeat.stream/chunklist_w2137760
 http://162.212.176.107:1935/al_mayaden/globaltv-al_mayaden.stream/chunklist_w879051208.m3u8
 #EXTINF:-1,Al manar
 http://162.212.176.107:1935/al_manar/globaltv-al_manar.stream/chunklist_w156760986.m3u8
-#EXTINF:-1,Aljadid
-http://162.212.176.107:1935/aljaded_sat/globaltv-aljaded_sat.stream/media_w1477130491_398.m3u8
-#EXTINF:-1,OTV
-http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
-#EXTINF:-1,LBC
-http://162.212.176.107:1935/time_comedy/globaltv-time_comedy.stream/chunklist_w489583599.m3u8
-#EXTINF:-1,LBC Europe
-http://162.212.176.107:1935/lbc_europe/globaltv-lbc_europe.stream/chunklist_w928377838.m3u8
-#EXTINF:-1,MTV Liban
-rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
-#EXTINF:-1,NBN
-rtmp://lived.nbn.com.lb/nbn?gmswf=1481326180/mpegts.stream
-#EXTINF:-1,alalamia
-rtmp://ns8.indexforce.com/alalamia/alalamia
-#EXTINF:-1,Future TV
-http://185.56.30.127:8082/TV6000
-#EXTINF:-1,cna
-rtmp://str81.creacast.com:80/cna/live.sdp
 #EXTINF:-1,KTV Kurdistan
 http://63.237.48.23/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8
 #EXTINF:-1,albadawiyah
@@ -475,10 +481,6 @@ http://live.mixmedia-eg.com:81/live/smil:misralaan.smil/chunklist_w1588618274_b1
 
 #EXTINF:-1,*** Entertainment ***
 http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,Mbc 1
-http://62.210.87.116:8883/live/Hmtooo/fannen3/1.ts
-#EXTINF:-1,Mbc 1 (Alternate)
-http://gui.cdniptv.com:8888/hls/mbc1.m3u8?frd8fi6blyq46ep
 #EXTINF:-1,Mbc 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC 3
@@ -497,8 +499,6 @@ rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,mbc_max m3u8
 http://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream/HasBahCa.m3u8
-#EXTINF:-1,LBC Europe
-rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
 #EXTINF:-1,alhayat 1  m3u8
 http://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream/HasBahCa.m3u8
 #EXTINF:-1,art _aflam m3u8
