@@ -58,6 +58,13 @@
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http://www.hasbahcaiptv.com/m3u/turkiye.mp4]]></stream_url>
 	</channel>
+	
+	<channel>
+		<title><![CDATA[*** hasbahcaiptv.com ***]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[http://hasbahcaiptv.com/m3u/iptv/xml/iptv/Arabic_ARAPCA.xml]]></stream_url>
+	</channel>
 
 	<channel>
 		<title><![CDATA[MBC 1 (Alt1)]]></title>
