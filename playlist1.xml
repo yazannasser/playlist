@@ -151,11 +151,19 @@
 	</channel>
 
 	<channel>
-		<title><![CDATA[LBC Europe]]></title>
+		<title><![CDATA[LBC Europe (Alt1)]]></title>
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http://162.212.176.107:1935/lbc_europe/globaltv-lbc_europe.stream/chunklist_w928377838.m3u8]]></stream_url>
 	</channel>
+	
+	<channel>
+		<title><![CDATA[LBC Europe (Alt2)]]></title>
+		<logo_30x30></logo_30x30>
+		<description><![CDATA[]]></description>
+		<stream_url><![CDATA[rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream]]></stream_url>
+	</channel>
+	
 
 	<channel>
 		<title><![CDATA[LBC Europe]]></title>
