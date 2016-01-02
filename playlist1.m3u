@@ -14,6 +14,46 @@ https://www.dropbox.com/s/v50aesnb3wifbiy/Arabic%20TV.m3u?dl=1
 #EXTINF:0,DropBox List DL0
 https://www.dropbox.com/s/v50aesnb3wifbiy/Arabic%20TV.m3u?dl=0
 
+#EXTINF:-1 group-title=”ARABIC”,AL ARABIA TV
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title=”ARABIC”,AL HURRA
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:-1 group-title=”ARABIC”,AL JAZEERA CHILD
+http://brightcove03-f.akamaihd.net/jeem_mena_400@95898?gmswf=1407167774
+#EXTINF:-1 group-title=”ARABIC”,AL JAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 group-title=”ARABIC”,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DUBAI ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DUBAI ONE
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,DW Arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC 4
+http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC ACTION
+http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC HD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,mbc masr
+http://178.33.88.129:888/udp/239.102.0.45:1234
+#EXTINF:-1 group-title=”ARABIC”,MBC MAX2
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT1
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT2
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”ARABIC”,MBC_ACTION 2
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+
+
 # http://www.iptvlinks.com/2014/12/iptv-arabic-channels.html
 #EXTINF:-1,*** http://www.iptvlinks.com ***
 http://www.hasbahcaiptv.com/m3u/turkiye.mp4
