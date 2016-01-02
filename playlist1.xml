@@ -4,7 +4,7 @@
 	<playlist_name><![CDATA[Internet TV]]></playlist_name>
 
 	<channel>
-		<title><![CDATA[Channel]]></title>
+		<title><![CDATA[Channel]]>Yazan</title>
 		<logo_30x30></logo_30x30>
 		<description><![CDATA[]]></description>
 		<stream_url><![CDATA[http212.35.75.1303330playlist.m3u8email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81&lq=1]]></stream_url>
